@@ -1,0 +1,14 @@
+C:\Dev\ImprimirNumeros\ImprimirNumeros\bin\Debug\netcoreapp3.1\ImprimirNumeros.exe
+C:\Dev\ImprimirNumeros\ImprimirNumeros\bin\Debug\netcoreapp3.1\ImprimirNumeros.deps.json
+C:\Dev\ImprimirNumeros\ImprimirNumeros\bin\Debug\netcoreapp3.1\ImprimirNumeros.runtimeconfig.json
+C:\Dev\ImprimirNumeros\ImprimirNumeros\bin\Debug\netcoreapp3.1\ImprimirNumeros.runtimeconfig.dev.json
+C:\Dev\ImprimirNumeros\ImprimirNumeros\bin\Debug\netcoreapp3.1\ImprimirNumeros.dll
+C:\Dev\ImprimirNumeros\ImprimirNumeros\bin\Debug\netcoreapp3.1\ImprimirNumeros.pdb
+C:\Dev\ImprimirNumeros\ImprimirNumeros\obj\Debug\netcoreapp3.1\ImprimirNumeros.csproj.AssemblyReference.cache
+C:\Dev\ImprimirNumeros\ImprimirNumeros\obj\Debug\netcoreapp3.1\ImprimirNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ImprimirNumeros\ImprimirNumeros\obj\Debug\netcoreapp3.1\ImprimirNumeros.AssemblyInfoInputs.cache
+C:\Dev\ImprimirNumeros\ImprimirNumeros\obj\Debug\netcoreapp3.1\ImprimirNumeros.AssemblyInfo.cs
+C:\Dev\ImprimirNumeros\ImprimirNumeros\obj\Debug\netcoreapp3.1\ImprimirNumeros.csproj.CoreCompileInputs.cache
+C:\Dev\ImprimirNumeros\ImprimirNumeros\obj\Debug\netcoreapp3.1\ImprimirNumeros.dll
+C:\Dev\ImprimirNumeros\ImprimirNumeros\obj\Debug\netcoreapp3.1\ImprimirNumeros.pdb
+C:\Dev\ImprimirNumeros\ImprimirNumeros\obj\Debug\netcoreapp3.1\ImprimirNumeros.genruntimeconfig.cache

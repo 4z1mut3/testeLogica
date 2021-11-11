@@ -1,0 +1,13 @@
+C:\Dev\problemaArray_01\problemaArray_01\bin\Debug\netcoreapp3.1\problemaArray_01.exe
+C:\Dev\problemaArray_01\problemaArray_01\bin\Debug\netcoreapp3.1\problemaArray_01.deps.json
+C:\Dev\problemaArray_01\problemaArray_01\bin\Debug\netcoreapp3.1\problemaArray_01.runtimeconfig.json
+C:\Dev\problemaArray_01\problemaArray_01\bin\Debug\netcoreapp3.1\problemaArray_01.runtimeconfig.dev.json
+C:\Dev\problemaArray_01\problemaArray_01\bin\Debug\netcoreapp3.1\problemaArray_01.dll
+C:\Dev\problemaArray_01\problemaArray_01\bin\Debug\netcoreapp3.1\problemaArray_01.pdb
+C:\Dev\problemaArray_01\problemaArray_01\obj\Debug\netcoreapp3.1\problemaArray_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\problemaArray_01\problemaArray_01\obj\Debug\netcoreapp3.1\problemaArray_01.AssemblyInfoInputs.cache
+C:\Dev\problemaArray_01\problemaArray_01\obj\Debug\netcoreapp3.1\problemaArray_01.AssemblyInfo.cs
+C:\Dev\problemaArray_01\problemaArray_01\obj\Debug\netcoreapp3.1\problemaArray_01.csproj.CoreCompileInputs.cache
+C:\Dev\problemaArray_01\problemaArray_01\obj\Debug\netcoreapp3.1\problemaArray_01.dll
+C:\Dev\problemaArray_01\problemaArray_01\obj\Debug\netcoreapp3.1\problemaArray_01.pdb
+C:\Dev\problemaArray_01\problemaArray_01\obj\Debug\netcoreapp3.1\problemaArray_01.genruntimeconfig.cache
