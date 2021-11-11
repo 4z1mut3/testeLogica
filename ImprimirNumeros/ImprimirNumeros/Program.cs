@@ -2,8 +2,6 @@
 
 namespace ImprimirNumeros
 {
-
-
     //    TESTE 02
     //Escrever um programa que escreva na tela números de 1 a 100.
 
@@ -38,8 +36,6 @@ namespace ImprimirNumeros
             }
         }
     }
-
-
     class Program
     {        
         static void Main(string[] args)
